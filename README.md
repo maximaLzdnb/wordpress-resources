@@ -37,6 +37,17 @@
 
 ## Plugins
 - *Work in progress...*
+- [**Advanced Custom Fields**](https://www.advancedcustomfields.com/) :unlock: --> Extremely powerful custom metaboxes generator and handler. Premium version provides comfort functions.
+- [**Custom Post Type UI**](https://wordpress.org/plugins/custom-post-type-ui/) --> Great custom post type & taxonomies managing plugin. Saves gigantic amounts of time!
+- [**Contact Form 7**](https://wordpress.org/plugins/contact-form-7/) --> Very flexible contact form managing plugin. Allows for multiple custom transactionnal emails in both plain text and HTML format, and can be extended through loads of Contact Form 7 subplugins (captchas, etc...).
+- [**Regenerate Thumbnails**](https://wordpress.org/plugins/regenerate-thumbnails/) --> Ever forgot to initialize an image size before integrating content ? Just regenerate every image and this plugin will automatically create the new versions for you!
+- [**Simple History**](https://wordpress.org/plugins/simple-history/) --> Client blames you for the error 500 showing up on his website, you blame him. Simple History records everything someone does in the website's backoffice. You'll instantly know what happened and how it happened!
+- [**Yoast SEO**](https://wordpress.org/plugins/wordpress-seo/) --> Essential plugin for managing everything SEO related on your Wordpress website. Your SEO teammates will love you.
+- [**Tiny MCE Advanced**](https://wordpress.org/plugins/tinymce-advanced/) --> Loads of better actions for all your WYSIWYG editors, very useful especially for client work and content-centered Wordpress websites.
+- [**Wordfence Security**](https://wordpress.org/plugins/wordfence/) :unlock: --> General security plugin. You have an option to reimport security settings from another website through a token.
+- [**WP Super Cache**](https://wordpress.org/plugins/wp-super-cache/) --> Very simple yet powerful Wordpress caching plugin. Should be an essential plugin!
+
+
 
 
 ## Misc
